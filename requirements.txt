@@ -1,0 +1,12 @@
+arviz
+pgmpy
+pandas
+scipy
+tensorflow
+theano
+pymc3
+numpy
+seaborn
+matplotlib
+sklearn
+pybkt

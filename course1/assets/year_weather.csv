@@ -1,0 +1,91 @@
+year,region,state,snow_inches,num_snow_day,precipitation_inches,num_rain_day,year_avg_temp
+1990,Detroit,Michigan,41.8,36.4,42.6,171,51.3
+1991,Detroit,Michigan,31.4,32.2,29.6,115,52
+1992,Detroit,Michigan,43.5,24.7,37.3,153,48.8
+1993,Detroit,Michigan,52.2,41.9,30.6,118,49.9
+1994,Detroit,Michigan,45.8,31.9,31,117,50.4
+1995,Detroit,Michigan,33.5,22.1,28.8,113,50
+1996,Detroit,Michigan,27.6,29.2,27.4,107,48.2
+1997,Detroit,Michigan,43.1,38.1,34,130,48.5
+1998,Detroit,Michigan,23.4,27.7,34.9,135,53.5
+1999,Detroit,Michigan,49.5,35.4,32.2,122,51.3
+2000,Detroit,Michigan,23.7,14.1,42.2,160,49.8
+2001,Detroit,Michigan,39,31.2,34.5,135,51.6
+2002,Detroit,Michigan,33.7,28.5,30.5,115,51
+2003,Detroit,Michigan,60.9,40.1,31.4,117,48.9
+2004,Detroit,Michigan,24.1,15.9,33.6,124,50.1
+2005,Detroit,Michigan,63.8,42.7,28.3,101,50.8
+2006,Detroit,Michigan,36.3,43.9,39.2,146,52.1
+2007,Detroit,Michigan,30.3,29,32.7,133,50.9
+2008,Detroit,Michigan,71.7,40.8,34,140,49.7
+2009,Detroit,Michigan,65.7,48.4,34.1,133,49.4
+2010,Detroit,Michigan,43.7,20.3,32.3,128,51.9
+2011,Detroit,Michigan,69.1,54.4,47.7,184,51.1
+2012,Detroit,Michigan,26,33.2,27.1,99,53.8
+2013,Detroit,Michigan,47.7,48.3,39.9,159,49.8
+2014,Detroit,Michigan,94.9,53.4,37.6,140,47.6
+2015,Detroit,Michigan,47.5,44.1,30.3,121,50.7
+2016,Detroit,Michigan,35.3,39.7,34.7,137,52.9
+2017,Detroit,Michigan,37.9,25,35.5,138,52.4
+2018,Detroit,Michigan,61,48.8,43.8,167,51.4
+2019,Detroit,Michigan,31.3,22.9,36.4,140,50.5
+1990,New York City,New York,24.9,15.2,60.9,144,57.2
+1991,New York City,New York,12.6,22.2,45.2,121,57.2
+1992,New York City,New York,24.5,26,43.4,122,53.9
+1993,New York City,New York,53.4,29.9,44.3,120,55.5
+1994,New York City,New York,11.8,29.5,47.4,124,55.2
+1995,New York City,New York,75.6,50.1,40.4,113,55.3
+1996,New York City,New York,10,21,56.2,138,53.7
+1997,New York City,New York,15.5,53.1,43.9,121,54.3
+1998,New York City,New York,12.7,33.3,48.7,132,57.2
+1999,New York City,New York,16.3,23.3,42.5,118,56.5
+2000,New York City,New York,35,34.2,45.4,124,53.9
+2001,New York City,New York,6.6,33.7,35.9,103,56.3
+2002,New York City,New York,49.3,43.7,45.2,126,56.4
+2003,New York City,New York,42.6,31.9,58.6,143,53.4
+2004,New York City,New York,41,32.2,52,137,54.5
+2005,New York City,New York,40,38.3,56,135,55.8
+2006,New York City,New York,12.4,21.3,59.9,146,56.8
+2007,New York City,New York,11.9,11.9,61.7,144,55
+2008,New York City,New York,27.6,30,53.6,130,55.3
+2009,New York City,New York,51.4,37.7,53.6,134,54
+2010,New York City,New York,61.9,29,49.4,126,56.7
+2011,New York City,New York,7.4,8.8,72.8,154,56.4
+2012,New York City,New York,26.1,34,38.5,114,57.3
+2013,New York City,New York,50.1,33.3,46.3,123,55.3
+2014,New York City,New York,50.3,39.5,53.8,130,54.4
+2015,New York City,New York,32.8,31.5,41,117,56.7
+2016,New York City,New York,30.8,36.9,42.2,115,57.2
+2017,New York City,New York,40.9,30.5,45,118,56.3
+2018,New York City,New York,20.5,18.8,65.6,144,55.9
+2019,New York City,New York,40.1,20.9,53,129,55.6
+1990,San Francisco,California,0,0,14.1,53,58.8
+1991,San Francisco,California,0,0,19.2,61,58.5
+1992,San Francisco,California,0,0,26.7,77,60.8
+1993,San Francisco,California,0,0,15.2,55,59.9
+1994,San Francisco,California,0,0,34,90,57.7
+1995,San Francisco,California,0,0,24.9,66,59.9
+1996,San Francisco,California,0,0,22.6,64,60.3
+1997,San Francisco,California,0,0,47.2,108,60.1
+1998,San Francisco,California,0,0,23.5,67,56.8
+1999,San Francisco,California,0,0,24.9,71,56.1
+2000,San Francisco,California,0,0,19.5,57,57.3
+2001,San Francisco,California,0,0,25,70,57.6
+2002,San Francisco,California,0,0,23.9,73,56.9
+2003,San Francisco,California,0,0,20.5,58,58.2
+2004,San Francisco,California,0,0,31.9,83,58.3
+2005,San Francisco,California,0,0,34.4,87,57.9
+2006,San Francisco,California,0,0,16.9,46,56.7
+2007,San Francisco,California,0,0,17.4,48,57.3
+2008,San Francisco,California,0,0,18.1,47,57.3
+2009,San Francisco,California,0,0,24.1,57,58.1
+2010,San Francisco,California,0,0,28.9,79,58.7
+2011,San Francisco,California,0,0,15.6,44,57.9
+2012,San Francisco,California,0,0,16.6,47,59.8
+2013,San Francisco,California,0,0,12.5,40,60.7
+2014,San Francisco,California,0,0,18.2,57,58.9
+2015,San Francisco,California,0,0,23.3,68,58.4
+2016,San Francisco,California,0,0,32.3,85,57.8
+2017,San Francisco,California,0,0,17.5,51,59.1
+2018,San Francisco,California,0,0,25.7,74,57.4
+2019,San Francisco,California,0,0,11.7,43,59.7
